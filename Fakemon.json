@@ -1,0 +1,112 @@
+[   
+    {
+        "name" : "apprenpti",
+        "type" : ["dragon","steel"]
+    },
+    {
+        "name" : "reptueur",
+        "type" : ["dragon","steel"]
+    },
+    {
+        "name" : "gardilisk",
+        "type" : ["dragon","steel"]
+    },
+    {
+        "name" : "limacide",
+        "type" : ["poison"]
+    },
+    {
+        "name" : "glaugoon",
+        "type" : ["poison","dragon"]
+    },
+    {
+        "name" : "gyaoon",
+        "type" : ["normal","dragon"]
+    },
+    {
+        "name" : "puyotan",
+        "type" : ["dragon"]
+    },
+    {
+        "name" : "gesticot",
+        "type" : ["ground"]
+    },
+    {
+        "name" : "terrakami",
+        "type" : ["ground","dragon"]
+    },
+    {
+        "name" : "invocamon",
+        "type" : ["dragon","flying"]
+    },
+    {
+        "name" : "zapek",
+        "type" : ["flying","normal"]
+    },
+    {
+        "name" : "pikorage",
+        "type" : ["flying","electric"]
+    },
+    {
+        "name" : "cockalypse",
+        "type" : ["dragon","electric"]
+    },
+    {
+        "name" : "scriptile",
+        "type" : ["dragon","electric"]
+    },
+    {
+        "name" : "pythagon",
+        "type" : ["dragon","electric"]
+    },
+    {
+        "name" : "dracoton",
+        "type" : ["ice","dragon"]
+    },
+    {
+        "name" : "tundragon",
+        "type" : ["ice","dragon"]
+    },
+    {
+        "name" : "figgon",
+        "type" : ["grass"]
+    },
+    {
+        "name" : "saladrake",
+        "type" : ["grass","dragon"]
+    },
+    {
+        "name" : "auberjaw",
+        "type" : ["grass","dragon"]
+    },
+    {
+        "name" : "chillopede",
+        "type" : ["bug","ice"]
+    },
+    {
+        "name" : "beelzeros",
+        "type" : ["dark","fighting"]
+    },
+    {
+        "name" : "cendracine",
+        "type" : ["grass","fire"]
+    },
+    {
+        "name" : "mossemeros",
+        "type" : ["ghost","roc"]
+    },
+    {
+        "name" : "prismunter",
+        "type" : ["rock","psychic"]
+    },
+    {
+        "name" : "horrifeel",
+        "type" : ["water","electric","starter"]
+    },
+    {
+        "name" : "celestial",
+        "type" : ["dragon","fairy","legendary"]
+    }
+]
+
+

@@ -93,7 +93,7 @@
     },
     {
         "name" : "mossemeros",
-        "type" : ["ghost","roc"]
+        "type" : ["ghost","rock"]
     },
     {
         "name" : "prismunter",
@@ -106,6 +106,10 @@
     {
         "name" : "celestial",
         "type" : ["dragon","fairy","legendary"]
+    },
+    {
+        "name" : "ditto",
+        "type" : ["???"]
     }
 ]
 
